@@ -19,7 +19,7 @@ namespace Config
             {
                 ["Blue"] = new Color32(0, 100, 255, 255),
                 ["Red"] = new Color32(255, 25, 0, 255),
-                ["Black"] = new Color32(255, 255, 255, 255)
+                ["Black"] = new Color32(0, 0, 0, 255)
             };
     }
 

@@ -16,7 +16,7 @@ public class Shape : MonoBehaviour
         set { m_shapeColor = value; }
     }
 
-    private string m_shapeName;
+    private string m_shapeName = "Default Shape";
     public string shapeName
     {
         get { return m_shapeName; }
